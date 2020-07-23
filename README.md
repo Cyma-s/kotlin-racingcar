@@ -1,4 +1,4 @@
-# kotlin-blackjack
+# kotlin-racingcar
 
 ## Functional Requirements
 
